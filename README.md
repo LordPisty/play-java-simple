@@ -10,3 +10,5 @@ This file will be packaged with your application, when using `activator dist`.
 * from project folder 'activator run':
 	* [UI - http://localhost:9000/](http://localhost:9000/)
 	* [RESTful - http://localhost:9000/persons](http://localhost:9000/persons)
+* 'activator test' ==> run test cases
+* 'activator test-quick' ==> run failing test cases
